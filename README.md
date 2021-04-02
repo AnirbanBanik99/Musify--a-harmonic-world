@@ -1,4 +1,4 @@
-This project is deployed in netlify https://musify-anirban.netlify.app/ , do visit and witmess the project and kindly minimise the window for a proper viewing.
+This project is deployed in netlify https://musify-anirban.netlify.app/ , do visit and witmess the project.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
